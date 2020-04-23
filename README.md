@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lordofthejars/nosql-unit) 
+
 [![Build Status](https://travis-ci.org/tinesoft/nosql-unit.svg?branch=master)](https://travis-ci.org/lordofthejars/nosql-unit)
 
 Documentation
